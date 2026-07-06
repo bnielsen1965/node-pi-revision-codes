@@ -1,6 +1,6 @@
 {
   "name": "pi-revision-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -10,6 +10,6 @@
   "devDependencies": {},
   "author": "Bryan Nielsen <bnielsen1965@gmail.com> (https://github.com/bnielsen1965)",
   "license": "MIT",
-  "repository": "https://github.com/bnielsen1965/pi-revision-codes.git",
+  "repository": "https://github.com/bnielsen1965/node-pi-revision-codes.git",
   "description": "Convert Raspberry Pi revision code into hardware detail codes."
 }
